@@ -1,0 +1,1 @@
+These assignments were more focused om the Machine Learning aspect of Data Science, not only cleaning and reading data, but also using this data in different algorithms to make predictions based on the agenda.
